@@ -54,9 +54,8 @@ open index.html
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
-(Add your own screenshots later)
 
 
 
