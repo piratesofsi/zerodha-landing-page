@@ -59,9 +59,9 @@ open index.html
 (Add your own screenshots later)
 
 ```
-![Screenshot1](images/screenshot1.png)
-![Screenshot2](images/screenshot2.png)
-```
+
+```<img width="1918" height="865" alt="zerodha landing page by piratesofsi" src="https://github.com/user-attachments/assets/47916ce4-26a5-48cf-aa79-8f135f3bf12d" />
+
 
 ---
 
